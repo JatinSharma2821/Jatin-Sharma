@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin Sharma. 
-- 🌱 I’m currently learning C++ . I can code well in Python
+- 🌱 I’m currently learning C++ and Full Stack Web Development. I can code well in Python
 - 👀 I want to help people by developing bionic organs.
 
 - 💞️ I’m looking to collaborate on projects that requires python or C++ ( basic ) to solve issues.
