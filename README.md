@@ -22,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" width="55px" height="55px">
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" width="55px" height="55px">
+ <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" width="55px" height="55px">
   
   
 </div> 
@@ -36,7 +37,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="55px" height="55px">
 <img src="https://logodix.com/logo/2074081.jpg" width="55px" height="55px">
 
-<img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" width="55px" height="55px">
+
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1280px-JQuery_logo.svg.png" width="55px" height="55px">
